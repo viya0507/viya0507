@@ -1,4 +1,5 @@
-# 👋 Hii there !!
+# Hii everyone, I'm Oviya!👋
+<img align="right" alt="GIF" src="C:\Users\oviuy\Downloads\207e3cf64a2088cae44871ddaa7034-unscreen.gif" width="500" height="320" />
 
 Welcome to my GitHub profile! 
 I’m Oviya, a pre-final year E&C student passionate about merging tech and creativity to create sustainable solutions in renewable energy, telecom n design
