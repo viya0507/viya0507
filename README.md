@@ -28,7 +28,7 @@ I’m Oviya, a pre-final year E&C student passionate about merging tech and crea
 ## Talk with me :
 
 <p>
-  <a href="oviyas1605@gmail.com">
+  <a href="mailto:oviyas1605@gmail.com">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="20" height="20" alt="Gmail Icon" style="margin-right: 40px;">
   </a>
   <a href="https://www.linkedin.com/in/oviya-s-21647325b/">
