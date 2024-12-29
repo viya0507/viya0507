@@ -16,27 +16,34 @@ I’m Oviya, a pre-final year E&C student passionate about merging tech and crea
 - ⚡ **Fun Fact:** I’m new to GitHub and excited to grow my tech journey here!
 
 ---
+## <b>⚙️ Languages and Tools</b>:
 
-## 🔧 Skills
-
-- **Programming:** C, C++, Python, MATLAB
-- **Technologies:** Microcontrollers, Embedded Systems, Simulation Platforms
-- **Creative Work:** Poster and Certificate Design, Digital Branding
+<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
+<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="c" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />
+<img align="left" alt="c" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
+<br>
+<p></p>
+<p>
+And technologies like Microcontrollers, Embedded Systems, and Simulation Platforms.<br>
+Also, creative works in Digital Branding and Graphic Designing
+</p>
 
 ---
 
-## Talk with me :
+## <b>💬 Talk with me</b>:
 
 <p>
   <a href="mailto:oviyas1605@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="20" height="20" alt="Gmail Icon" style="margin-right: 40px;">
-  </a>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="26px" alt="Gmail Icon">
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/oviya-s-21647325b/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="20" height="20" alt="LinkedIn Icon" style="margin-right: 40px;">
-  </a>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="26px" alt="LinkedIn Icon">
+  </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/viya_0507/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="20" height="20" alt="Instagram Icon" style="margin-right: 40px;">
-  </a>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="26px" alt="Instagram Icon">
+  </a>&nbsp;&nbsp;
 </p>
 
 ---
