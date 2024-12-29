@@ -1,5 +1,5 @@
 # Hii everyone, I'm Oviya!👋
-<img align="right" alt="GIF" src="https://github.com/viya0507/hi.gif" width="500" height="320" />
+![Description of GIF](https://github.com/viya0507/hi.gif)
 
 Welcome to my GitHub profile! 
 I’m Oviya, a pre-final year E&C student passionate about merging tech and creativity to create sustainable solutions in renewable energy, telecom n design
