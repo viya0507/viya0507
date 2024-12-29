@@ -1,6 +1,7 @@
-# 👋 Hi, I’m Oviya (@viya0507)
+# 👋 Hii there !!
 
-Welcome to my GitHub profile! I’m a pre-final year **Electronics and Communication Engineering** student interested in leveraging technology to create impactful and sustainable solutions.
+Welcome to my GitHub profile! 
+I’m Oviya, a pre-final year E&C student passionate about merging tech and creativity to create sustainable solutions in renewable energy, telecom n design
 
 
 ---
