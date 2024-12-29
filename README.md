@@ -1,9 +1,8 @@
 # Hii everyone, I'm Oviya!👋
- <img align="right" alt="GIF" src="https://github.com/viya0507/hi.gif" width="500" height="320" />
- 
-Welcome to my GitHub profile! 
-I’m Oviya, a pre-final year E&C student passionate about merging tech and creativity to create sustainable solutions in renewable energy, telecom n design
+<img align="right" alt="Oviya's greeting GIF" src="https://github.com/viya0507/hi.gif" width="500" height="320" />
 
+Welcome to my GitHub profile! 
+I’m Oviya, a pre-final year E&C student passionate about merging tech and creativity to create sustainable solutions in renewable energy, telecom, and design.
 
 ---
 
@@ -16,7 +15,6 @@ I’m Oviya, a pre-final year E&C student passionate about merging tech and crea
 - 😄 **Pronouns:** She/Her/Hers
 - ⚡ **Fun Fact:** I’m new to GitHub and excited to grow my tech journey here!
 
-
 ---
 
 ## 🔧 Skills
@@ -25,6 +23,7 @@ I’m Oviya, a pre-final year E&C student passionate about merging tech and crea
 - **Technologies:** Microcontrollers, Embedded Systems, Simulation Platforms
 - **Creative Work:** Poster and Certificate Design, Digital Branding
 
+---
 
 ## 🌐 Connect With Me
 
@@ -32,10 +31,6 @@ I’m Oviya, a pre-final year E&C student passionate about merging tech and crea
 - 💼 [LinkedIn](https://www.linkedin.com/in/oviya-s-21647325b/)
 - 📸 [Instagram](https://www.instagram.com/viya_0507/)
 
-
-
 ---
 
 ### ✨ “Every project starts with an idea. Let’s bring ideas to life together!”
-
----
