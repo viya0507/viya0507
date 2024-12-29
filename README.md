@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: oviyas1605@gmail.com 
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I have just started exploring GitHub and am super excited!!!
 
 <!---
